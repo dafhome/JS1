@@ -12,4 +12,4 @@ console.log('pi='+pi);
 console.log('radio)'+radio);
 console.log('area redondeada='+area);
 
-document.write('<h3>El área (redondeada) de un círculo con radio '+radio+' es: '+area+'.</h3>');
+document.write('<h3>El área (redondeada) de un círculo con radio '+radio+' es: '+area+'</h3>');
