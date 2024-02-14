@@ -8,7 +8,7 @@ area = area.toFixed(4);
 
 document.write(`<h3>El área (sin redondear) de un círculo con radio ${radio} es: ${area} </h3>`);
 
-area = Math.round(area);
+area = Math.round(area:2);
 
 console.log('pi='+pi);
 console.log('radio)'+radio);
